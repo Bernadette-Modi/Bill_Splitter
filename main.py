@@ -1,0 +1,1 @@
+print("\n Welcome to the bill splitter!")
